@@ -1,9 +1,15 @@
-.1 {
+.clase-1,
+.clase-2 {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", "sans-serif";
+}
+
+.clase-1 {
   background: black;
   color: white;
 }
 
-.2 {
+.clase-2 {
   background: yellow;
 }
 
