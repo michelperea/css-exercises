@@ -1,0 +1,20 @@
+.impar {
+    background: coral;
+    font-family: Verdana, "DejaVu Sans", sans-serif,
+}
+
+#segundo-elemento {
+    color: blue;
+    font-size: 36px;
+
+}
+
+.tercer-elemento {
+    font-size: 24px;
+}
+
+#cuarto-elemento {
+    background: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
