@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .impar {
     background: coral;
     font-family: Verdana, "DejaVu Sans", sans-serif,
@@ -19,3 +20,25 @@
     font-weight: bold;
 }
 
+=======
+.impar {
+    background: coral;
+    font-family: Verdana, "DejaVu Sans", sans-serif,
+}
+
+#segundo-elemento {
+    color: blue;
+    font-size: 36px;
+
+}
+
+.tercer-elemento {
+    font-size: 24px;
+}
+
+#cuarto-elemento {
+    background: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
+>>>>>>> afb71b7350d464ad405d4264583032193b29a586
